@@ -51,7 +51,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 
 For any questions or suggestions, please contact the project maintainer:
 
-- Kisnak Nugroho
-- krisnastya21@gmail.com
+-Jason Israel
+-jasonisrael92922@gmail.com
 
 Stay informed with the Weather App! 🌦️
